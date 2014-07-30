@@ -1,0 +1,11 @@
+{
+  "static": {
+    "blog": {
+      "path": "../ryanlewis.github.io/_site"
+    },
+    "wshtml": {
+      "vhost": "westherts.127.0.0.1.xip.io",
+      "src": "/opt/ws-html.ryanl.me"
+    }
+  }
+};

@@ -1,0 +1,21 @@
+{
+  "name": "webserver",
+  "version": "0.0.1",
+  "description": "Web server that's in use",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ryan Lewis",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.0.9",
+    "errorhandler": "^1.1.1",
+    "express": "^4.7.2",
+    "http-proxy": "^1.1.6",
+    "morgan": "^1.2.2",
+    "st": "^0.5.1",
+    "vhost": "^2.0.0"
+  }
+}
